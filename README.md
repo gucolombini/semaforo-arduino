@@ -1,3 +1,13 @@
+# Semáforo LED com Arduino
+<img src="assets/semaforo.gif" width="250" height="250" /> <img src="assets/image1.jpg" width="350" height="250" /> <img src="assets/image2.jpg" width="350" height="250" />
+### Peças usadas:
+- Arduino UNO
+- 3x LED 5mm (vermelho, amarelo, verde)
+- 3x Resistor 330 Ohms 5%
+- Cabos jumper M-M e M-F
+
+https://github.com/user-attachments/assets/7344f404-c85a-4143-925e-65d7a9614746
+
 ### Avaliadora: Sophia Senne
 | Critério                                                                                                 | Contempla (Pontos) | Contempla Parcialmente (Pontos) | Não Contempla (Pontos) | Observações do Avaliador |
 |---------------------------------------------------------------------------------------------------------|--------------------|----------------------------------|--------------------------|---------------------------|
