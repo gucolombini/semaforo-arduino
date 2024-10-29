@@ -6,6 +6,10 @@
 - 3x Resistor 330 Ohms 5%
 - Cabos jumper M-M e M-F
 
+---
+
+A realização desse projeto foi algo relativamente simples com o Arduino, uma vez que o código apenas consiste em alternar a voltagem entre três diferentes pinos. A parte mais desafiadora foi a montagem física, pois logo após montar o projeto inicialmente na protoboard, foi necessário repensar a estrutura dos fios para poder encaixar os LEDs no molde do semáforo. Fiz uso de fios de mesmas cores das luzes facilitar a visualização, assim como deixei eles bem separados. O resultado final funciona perfeitamente, mas requer cuidado, uma vez que os cabos M-F não estão muito bem presos nos LEDs, e se movidos bruscamente se desconectam.
+
 https://github.com/user-attachments/assets/82f47520-97b1-4e4e-be33-be8d310c36c5
 
 ### Avaliadora: Sophia Senne
